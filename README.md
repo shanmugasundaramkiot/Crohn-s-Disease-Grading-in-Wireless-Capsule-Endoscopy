@@ -165,14 +165,7 @@ python experiments/run_statistical_analysis.py
 
 If you use this codebase or find our work helpful in your research, please cite:
 
-```bibtex
-@article{sundaram2026bellman,
-  title={A Bellman-Filtered, Self-Modulating Convolutional Framework with Divine Religions Algorithm Tuning for Automated Crohn's Disease Grading in Wireless Capsule Endoscopy},
-  author={Shanmuga Sundaram, P. and Saravanan, V. and Santhiyakumari, N. and Kumar Ganesh, S.},
-  journal={Machine Learning},
-  year={2026},
-  publisher={Springer}
-}
+
 ```
 
 ---
